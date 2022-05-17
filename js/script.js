@@ -135,8 +135,8 @@ function baslat(duzey) {
         karıstır(); 
         $( ".grid" ).css( "grid", "repeat(3, 1fr) / repeat(6, 1fr)" );
         $( ".grid" ).css( "padding-top", "8%" );
-        $( ".cards" ).css( "width", "180px" );
-        $( ".cards" ).css( "height", "250px" );
+        $( ".cards" ).css( "width", "140px" );
+        $( ".cards" ).css( "height", "190px" );
         $( ".ust" ).css( "top", "30px" );  
         start();
         son=9;
@@ -147,8 +147,8 @@ function baslat(duzey) {
         karıstır();
         $( ".grid" ).css( "grid", "repeat(4, 1fr) / repeat(5, 1fr)" );
         $( ".grid" ).css( "padding-top", "8%" );
-        $( ".cards" ).css( "width", "150px" );
-        $( ".cards" ).css( "height", "200px" );
+        $( ".cards" ).css( "width", "100px" );
+        $( ".cards" ).css( "height", "150px" );
         $( ".ust" ).css( "top", "30px" );  
         start();
         son=10;
